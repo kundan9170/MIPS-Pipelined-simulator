@@ -1,0 +1,22 @@
+7153 1:<FETCH> 
+7153 1:<FETCH> ************************************************************
+7153 1:<FETCH> 
+7153 1:<FETCH> Number of instructions: 7129
+7153 1:<FETCH> Number of load stall: 5
+7153 1:<FETCH> Number of simulated cycles: 7153
+7153 1:<FETCH> CPI: 1.00
+7153 1:<FETCH> Int Conditional Branches: 0
+7153 1:<FETCH> Jump and Link: 0
+7153 1:<FETCH> Jump Register: 0
+7153 1:<FETCH> Number of fp instructions: 0
+7153 1:<FETCH> Number of loads: 0
+7153 1:<FETCH> Number of syscall emulated loads: 85
+7153 1:<FETCH> Number of stores: 0
+7153 1:<FETCH> Number of syscall emulated stores: 45
+7153 1:<FETCH> -----------------------------Stats---------------------
+
+7153 1:<FETCH> Total Ins    7129
+7153 1:<FETCH> Percentage Loads    1.192313
+7153 1:<FETCH> Percentage Stores    0.631225
+7153 1:<FETCH> Percentage CB    0.000000
+7153 1:<FETCH> 
